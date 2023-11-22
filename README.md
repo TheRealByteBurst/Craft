@@ -3,7 +3,7 @@
 Craft Discord Bot
 
 
-## Documentation
+## Documentation 📄
 
 ### Dependencies
 - [Node.js (Latest)](https://nodejs.org/en/download)
@@ -19,4 +19,4 @@ BOT_TOKEN="Token Here"
 ```
 
 
-## Features
+## Features 📜
