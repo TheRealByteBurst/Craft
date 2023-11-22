@@ -1,5 +1,5 @@
 
-# Craft
+# Craft 🤖
 Craft Discord Bot
 
 
