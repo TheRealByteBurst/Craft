@@ -9,7 +9,7 @@ Craft Discord Bot
 - [Node.js (Latest)](https://nodejs.org/en/download)
 
 ### Project Set-Up
-1. Install all the **Dependenices** listed above.
+1. Install all the [**Dependenices**](#Dependencies) listed above.
 
 2. Run the bat file inside scripts folder to set up the project.
 
