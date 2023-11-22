@@ -6,7 +6,7 @@ Craft Discord Bot
 ## Documentation
 
 ### Dependencies
-- Node.js (Latest)
+- [Node.js (Latest)](https://nodejs.org/en/download)
 
 ### Project Set-Up
 1. Install all the **Dependenices** listed above.
