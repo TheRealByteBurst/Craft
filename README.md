@@ -9,11 +9,11 @@ Craft Discord Bot
 - Node.js (Latest)
 
 ### Project Set-Up
-Install all the **Dependenices** listed above.
+1. Install all the **Dependenices** listed above.
 
-Run the bat file inside scripts folder to set up the project.
+2. Run the bat file inside scripts folder to set up the project.
 
-Make a .env file and add you bot token to it:
+3. Make a .env file and add you bot token to it:
 ```env
 BOT_TOKEN="Token Here"
 ```
